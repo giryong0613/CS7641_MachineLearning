@@ -15,8 +15,19 @@ Supervised Learning:
 
 - Open the desired notebook.
 - Execute all the cells in sequence.
-   
+
 Thank you for accessing this repository. Kindly refer to the analysis report for a comprehensive understanding of the results.
+
+
+
+Git Repository: 
+
+https://github.com/giryong0613/CS7641_MachineLearning/tree/main/Assignment1_Supervised_Learning
+
+
+Git Clone:
+
+https://github.com/giryong0613/CS7641_MachineLearning.git
 
 
 Dataset:
